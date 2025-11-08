@@ -178,3 +178,10 @@ The final prediction of this model is that **Argentina** is the tournament winne
   * **`joblib`**: Used to serialize and save the final trained models (`.pkl` files) and the `scaler` for future use.
   * **`os`**: To create the `models/` directory for storing saved files.
 
+
+<img width="800" height="600" alt="ROC_AUC" src="https://github.com/user-attachments/assets/0b69ff5a-1bb4-45c3-8ad2-a78989e7be03" />
+<img width="800" height="500" alt="RAndom_Forest_featureIMp" src="https://github.com/user-attachments/assets/97243ceb-ed86-441d-9e69-5805b013fa37" />
+
+
+  
+
