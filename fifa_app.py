@@ -2,8 +2,7 @@
 """
 Dark-themed Streamlit UI for FIFA Match Predictor (Top 48 teams only)
 with Tournament Simulation to predict overall World Cup Champion.
-Run with:
-    streamlit run fifa_app.py
+
 """
 
 import streamlit as st
@@ -185,3 +184,4 @@ if st.button("🎲 Simulate Tournament"):
 
 st.markdown("---")
 st.caption("© 2025 FIFA Predictor | Random Forest Model")
+
